@@ -1,7 +1,3 @@
-<h1 align="center">
-  <a href="https://davidcobbina.com" target="_blank">davidcobbina.com</a>
-</h1>
-
 <p align="center">
     This is the second Iteration of my portfolio website (https://github.com/david-legend/aerium).
 </p>
