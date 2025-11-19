@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "aerium-v2"
-  }
+    "default": "amrashrafportfolio",
+    "amrashrafwebportfolio": "amrashrafportfolio"
+  },
+  "targets": {},
+  "etags": {}
 }
